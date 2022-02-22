@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Jain
 - 👀 I’m interested in Machine Learning, Data Science and Backend Development
-- 🌱 Currently working as SDE @1mgOfficial
+- 🌱 Currently working as SDE @ Tata 1mg
 - ✨ I’m looking to collaborate on new ideas and projects
 - 📫 Reach me on my [mail](mailto:int-gaurav.jain@1mg.com)
 
